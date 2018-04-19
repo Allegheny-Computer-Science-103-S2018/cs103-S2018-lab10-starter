@@ -64,13 +64,8 @@ If you have found a problem with this assignment's provided source code, then
 you can go to the [Computer Science 103 Lab 10
 Starter](https://github.com/Allegheny-Computer-Science-103-S2018/cs103-S2018-lab10-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
-the green "New Issue" button. If you have found a problem with the [GatorGrader
-tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
-assignment, then you can follow the aforementioned steps to create an issue in
-its repository. To ensure that your issue is properly resolved, please provide
-as many details as is possible about the problem that you experienced. If you
-discover a problem with the laboratory assignment sheet, then please raise an
-issue in the
+the green "New Issue" button. If you discover a problem with the laboratory
+assignment sheet, then please raise an issue in the
 [cs103-S2018-sheets](https://github.com/Allegheny-Computer-Science-103-S2018/cs103-S2018-sheets)
 repository and mention this assignment.
 
